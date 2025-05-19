@@ -47,6 +47,10 @@ Developed modular GenAI features using RAG, embeddings, Redis vector DB, and kno
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryohmi&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌍 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mayowadada)  
